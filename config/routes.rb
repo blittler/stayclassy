@@ -1,4 +1,4 @@
-Indiio::Application.routes.draw do
+Stayclassy::Application.routes.draw do
   resources :pins
 
   devise_for :users

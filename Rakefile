@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Indiio::Application.load_tasks
+Stayclassy::Application.load_tasks

@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Indiio::Application.config.secret_key_base = '013f231f143182fad4d47174387a6c0fdf72302d5bbc890b6f065e3ef4ccd4fb402a6ef5c797fe4ce574558053fcba2614084ac1ef974a465df5085b6e9efb09'
+Stayclassy::Application.config.secret_key_base = '013f231f143182fad4d47174387a6c0fdf72302d5bbc890b6f065e3ef4ccd4fb402a6ef5c797fe4ce574558053fcba2614084ac1ef974a465df5085b6e9efb09'
