@@ -1,6 +1,6 @@
 # Stay Classy
 
-##Raison d'etre
+## Raison d'etre
 
 Helping the world stay classy.
 
